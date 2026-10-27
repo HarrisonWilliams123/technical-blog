@@ -1,0 +1,10 @@
+GPT-6.1 Terra: OpenAI
+
+OpenAI's GPT-6.1 Terra looks like a strong release. At $1/$5 per million input/output tokens,
+it's half the price of its previous model GPT-5.6 Terra and also GPT-6.1 Sol. OpenAI reports
+more than double GPT-5.6 Terra's score on Terminal-Bench 4.0. In the article, "Terminal-Bench 4.0 tests
+how well coding agents solve problems from the command line, such as fixing a webpage whose layout shifts
+as it loads." If those numbers are real, these cheaper, more capable models make it easier for developers
+to automate complex work, and I expect that to put pricing pressure on competitors like Claude and Gemini.
+
+Link to article: https://openai.com/index/introducing-gpt-6-1-terra/
